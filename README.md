@@ -1,37 +1,34 @@
-## ✨ Updated Certifications & Badges Section June 2025 to current
+## 🧠 STRATIFI AI – Certifications & Badges
 
-```markdown
-## 🎓 Certifications & Badges
+### 🔷 SAP & ERP Transformation
+- SAP S/4HANA Financial Accounting (FI) – Core ERP Migration
+- SAP Analytics Cloud – Planning & Visualization
+- SAP Business Technology Platform (BTP) – Integration & Extension
+- SAP Data Intelligence – Pipeline Design & Governance
+- SAP Fiori UX – App Customization & Deployment
 
-| Platform     | Certification / Badge                          | Status        | Date          |
-|--------------|--------------------------------------------------|---------------|---------------|
-| Kaggle       | Intro to Programming                             | ✅ Completed  | 24 Aug 2023   |
-| Kaggle       | Python Coder                                     | ✅ Completed  | 28 Aug 2023   |
-| Kaggle       | Code Forker                                      | ✅ Completed  | Aug 2023      |
-| Kaggle       | Vampire Badge                                    | ✅ Completed  | Aug 2023      |
-| Microsoft    | Power BI Data Analyst Associate (DA-100)         | 🟡 In Progress| —             |
-| IBM          | Data Science Foundations                         | ✅ Completed  | —             |
-| IBM          | Python for Data Science and AI                   | ✅ Completed  | —             |
-| Tableau      | Tableau Desktop Specialist                       | ✅ Completed  | —             |
-| Excelerate   | AI Data-Powered Analysis Internship              | ✅ Completed  | —             |
-```
+### 🤖 AI & Machine Learning
+- Generative AI Fundamentals – Prompt Engineering & Ethics
+- Python for Machine Learning – Scikit-learn, Pandas, NumPy
+- IBM Data Science Professional Certificate – 9-course specialization
+- Responsible AI – AWS & Microsoft Ethics Modules
+- AI-Powered Analysis Internship (Excelerate AI) – 4-week sprint-based program
 
----
+### 📊 Analytics & Visualization
+- Tableau Desktop Specialist – Dashboards & Calculations
+- Power BI – DAX, Data Modeling, Report Design
+- Looker Studio – Marketing & Finance Dashboards
+- SQL for Data Analysis – Joins, Aggregations, Subqueries
 
-## 🧛 Kaggle Badge Highlights
+### ☁️ Cloud & Infrastructure
+- AWS Cloud Essentials – Architecture & Job Roles
+- Amazon CloudWatch – Monitoring & Logging
+- Amazon S3 Performance Optimization – Advanced Storage Tuning
+- AWS Billing & Cost Management – Cost Explorer & Budgets
+- SaaS Access Control – Amazon Verified Permissions
+- Cloud Operator (SysOps) Learning Plan – In Progress (40+ hrs)
 
-```markdown
-### 🏅 Kaggle Badge Highlights
-
-- 🐍 **Python Coder** – Completed Python track with hands-on coding challenges
-- 💡 **Code Forker** – Active contributor and project explorer
-- 🌙 **Vampire** – Recognized for late-night learning and community engagement
-```
-
----
-
-## 🔥 Strategic Add-On: Recruiter-Facing Summary
-
-```markdown
-> These certifications and badges reflect my sprint-based learning style and commitment to continuous improvement. Each credential is backed by hands-on projects, community engagement, and a focus on ethical, scalable finance-tech innovation.
-```
+### 🧩 Modular Learning & Sprint Tracking
+- 25+ Microbadges across SAP, AI, and Analytics platforms
+- Sprint-based documentation integrated into GitHub & LinkedIn
+- STRATIFI AI portfolio under continuous development
