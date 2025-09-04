@@ -1,4 +1,4 @@
-## 🧠 STRATIFI AI – Certifications & Badges
+## 🧠 Certifications & Badges
 
 ### 🔷 SAP & ERP Transformation
 - SAP S/4HANA Financial Accounting (FI) – Core ERP Migration
